@@ -1,1 +1,1 @@
-Demo : https://marwaas3d.github.io/Furniture-Shop/
+Demo : https://furniture-shop-five.vercel.app/
