@@ -141,7 +141,7 @@
 }
 /***************************************/
 .home{
-    background-image: url(../assets/welcome.jpg);
+    background-image: url(assets/welcome.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -684,21 +684,8 @@ hr {
     top: -73px;
     transform: rotate(54deg);
 }
-.contact::before{
-    content: '';
-    position: absolute;
-    width: 120px;
-    height: 120px;
-    background-color: #a88768;
-    right: -48px;
-    top: -73px;
-    transform: rotate(-54deg);
-}
-@media(max-width:767px){
-    .contact::after , .contact::before{
-        top: -93px;
-    }
-}
+
+
 
 
 
